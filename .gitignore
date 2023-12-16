@@ -135,7 +135,6 @@ dmypy.json
 *.docx
 
 # data
-*.csv
 *.json
 *.xlsx
 *.xls
